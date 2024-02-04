@@ -1,4 +1,4 @@
-# test_tasks
+# Test tasks
 
 This repository contains solutions to test tasks given to me by different employers.
 
